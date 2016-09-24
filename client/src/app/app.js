@@ -1,3 +1,4 @@
+/*  edited by Mustak  */
 angular.module('app', [
   'ngRoute',
   'projectsinfo',
